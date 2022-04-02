@@ -1,6 +1,6 @@
 <a href="https://github.com/madelynarana/">
 ![Header Madelyn Arana](https://github.com/madelynarana/madelynarana/blob/master/assets/header.svg)
-</a>
+</a></p>
 # debian 11 
 Error en detectar el hardware de red.
 
@@ -16,6 +16,7 @@ Error en detectar el hardware de red.
 
 3. Buscar la carpeta llamada __firmware__ y pegar el archivo descargado.
 
-4. Volver a instalar. 
+4. Volver a instalar.
+</p> 
 <a href="https://github.com/madelynarana/">
 ![Footer Madelyn Arana](https://github.com/madelynarana/madelynarana/blob/master/assets/footer.svg)</a>
