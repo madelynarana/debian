@@ -1,6 +1,7 @@
 <a href="https://github.com/madelynarana/">
 ![Header Madelyn Arana](https://github.com/madelynarana/madelynarana/blob/master/assets/header.svg)
 </a></p>
+
 # debian 11 
 Error en detectar el hardware de red.
 
